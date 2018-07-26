@@ -1,0 +1,50 @@
+{
+  "_from": "react-native-qiniu",
+  "_id": "react-native-qiniu@0.3.0",
+  "_inBundle": false,
+  "_integrity": "sha1-nVtbeWifPm5Yly2vKnTVFmNWjFY=",
+  "_location": "/react-native-qiniu",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-qiniu",
+    "name": "react-native-qiniu",
+    "escapedName": "react-native-qiniu",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "http://r.cnpmjs.org/react-native-qiniu/download/react-native-qiniu-0.3.0.tgz",
+  "_shasum": "9d5b5b79689f3e6e58972daf2a74d51663568c56",
+  "_spec": "react-native-qiniu",
+  "_where": "/Users/liaoyi/Documents/my_project/900/react-native/eTrip900_divisionGuide_App_3.0",
+  "author": {
+    "name": "buhe"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "base-64": "^0.1.0",
+    "crypto-js": "^3.1.6",
+    "url-parse": "^1.1.1"
+  },
+  "deprecated": false,
+  "description": "Qiniu React Native SDK ,A pure javascript implements.",
+  "keywords": [
+    "React",
+    "Native",
+    "Qiniu",
+    "SDK"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-qiniu",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.3.0"
+}

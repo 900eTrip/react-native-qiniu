@@ -84,3 +84,6 @@ Rs.stat(<BUCKET>, <KEY)
 ##相关文章
 
 [React Native 文件上传 和 react-native-qiniu](https://medium.com/@bugu1986/react-native-%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0-%E5%92%8C-react-native-qiniu-4b3f7335090e#.ooux7ospa)
+
+修改后的版本 参考
+https://blog.csdn.net/qq_33935895/article/details/78775819
